@@ -1,6 +1,6 @@
 # mediusware-coding-test follow the instruction for the project run
 
-## download the project and extract the project
+## download or clone the project this brance and extract the project
 ## Enter the django-coding-test folder and open the project in vs code
 ## Then run these commands
 ```
